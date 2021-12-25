@@ -1,1 +1,3 @@
-this is a script file
+sum = (a, b) => {
+    return a+b;
+}
